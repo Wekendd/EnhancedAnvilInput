@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enhancedanvilinput",
+  "name": "Enhanced Anvil Input",
+  "description": "Enhances anvils when being used for text input.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wekend"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
