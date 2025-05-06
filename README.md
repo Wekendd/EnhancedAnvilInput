@@ -1,6 +1,6 @@
 # EnhancedAnvilInput
 
-Enhanced Anvil Input adds QOL improvements to the anvil GUI to make text input a smoother experience. Made specifically for Hypixel's anvil input system, but likely to work in other cases.
+Enhanced Anvil Input adds QOL improvements to the anvil GUI to make text input a smoother experience. Made specifically for Hypixel's anvil input system, but likely to work in other cases. See [here](https://youtu.be/PPH7YKCjM78) for a demo.
 
 ### Features
 
